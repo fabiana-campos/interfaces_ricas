@@ -1,8 +1,20 @@
 {
   "devDependencies": {
-    "jest": "^29.7.0"
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.1",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "name": "interfaces_ricas",
+  "version": "1.0.0",
+  "description": "Repositório destinado as atividades desenvolvidas durante a disciplina de interfaces ricas 2024.2 IFRN.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
